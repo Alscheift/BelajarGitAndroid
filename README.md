@@ -1,2 +1,2 @@
-"# BelajarGitAndroid" 
-"# BelajarGitAndroid" 
+# BelajarGitAndroid
+AMCC Divisi Mobile Programming
