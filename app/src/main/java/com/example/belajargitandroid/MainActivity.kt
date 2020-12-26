@@ -1,5 +1,5 @@
 package com.example.belajargitandroid
-
+//AIAIAIAIAIAs
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
